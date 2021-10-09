@@ -3,7 +3,7 @@
 
 <h2 align="center">I'm student, i'm noobie learning on youtube,unacadamy,udemy,etc... </h2> 
 
-<code><a href="https://telegram/elonmuskme" title="Telegram"><img width="22" src="assets/Telegram1.svg"> Telegram</a></code>
+<code><a href="https://telegram/elonmuskme" title="Telegram"><img width="22" src="assets/Telegram_text_logo.svg"> Telegram</a></code>
 <p align = "center">
   
   <img src = "https://github-readme-stats.vercel.app/api?username=Killersparrow0&show_icons=true&theme=bear" width = 500>
