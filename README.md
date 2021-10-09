@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jerry!</h1>
 <br>
 
-<h2 align="center">I'm student, i'm noobie learning on youtube,unacadamy,udemy,etc... </h2> 
+<h2 align="center">I'm student & also a noobie still learning on youtube,unacadamy,udemy,etc... </h2> 
 
 <code><a href="telegram.me/elonmuskme" title="Telegram"> Telegram</a></code>
 <p align = "center">
