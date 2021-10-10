@@ -6,10 +6,10 @@
 <code><a href="telegram.me/elonmuskme" title="Telegram"> Telegram</a></code>
 <p align = "center">
   
-  <img src = "https://github-readme-stats.vercel.app/api?username=Killersparrow0&show_icons=true&theme=bear" width = 500>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Killersparrow0&show_icons=true&theme=midnight-purple" width = 500>
   
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Killersparrow0&theme=dark&hide_border=true" width = 500>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Killersparrow0&theme=midnight-purple&hide_border=true" width = 500>
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=Killersparrow0&theme=react-dark&bg_color=20232a&hide_border=true" width="81%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killersparrow0&theme=midnight-purple" />
   
 </p>
