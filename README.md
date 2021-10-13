@@ -6,9 +6,9 @@
 <code><a href="https://telegram.me/elonmuskme" title="Telegram"> Telegram</a></code>
 <p align = "center">
   
-  <img src = "https://github-readme-stats.vercel.app/api?username=Killersparrow0&show_icons=true&theme=midnight-purple" width = 500>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Killersparrow0&show_icons=true&theme=midnight-purple" width = 200>
   
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Killersparrow0&theme=midnight-purple&hide_border=true" width = 500>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Killersparrow0&theme=midnight-purple&hide_border=true" width = 200>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killersparrow0&theme=midnight-purple" />
   
