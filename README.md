@@ -1,4 +1,4 @@
-### <img src="https://github.com/Killersparrow0/gif/hey.gif" width="30px">Hey I'am [Jerry](https://github.com/Killersparrow0)
+### <img src="https://github.com/Killersparrow0/gif/hey.gif.GIF" width="30px">Hey I'am [Jerry](https://github.com/Killersparrow0)
 
 -------------------
          
